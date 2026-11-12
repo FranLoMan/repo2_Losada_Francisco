@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Texto de main
+=======
+Texto de segunda
+>>>>>>> segunda
