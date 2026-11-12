@@ -1,1 +1,1 @@
-se modifica ejemplo.txt desde la rama primera
+ Esto provoca que entre en conflicto
