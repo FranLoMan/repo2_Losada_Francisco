@@ -1,1 +1,1 @@
- Esto provoca que entre en conflicto
+Texto de main
